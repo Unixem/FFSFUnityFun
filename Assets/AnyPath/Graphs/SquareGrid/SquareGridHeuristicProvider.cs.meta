@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b8ce2a3ad8ed4f058db81c298c45c408
+timeCreated: 1642016971
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/SquareGrid/SquareGridHeuristicProvider.cs
+  uploadId: 709015

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 33fab29e5ddeac6498e4b6013ce19d37
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Shaders/TEXDrawShaderDefault.shader
+  uploadId: 885466

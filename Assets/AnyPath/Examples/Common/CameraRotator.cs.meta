@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 640eb53b0b1e4d1cba1f3f339dbf6185
+timeCreated: 1608395984
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Common/CameraRotator.cs
+  uploadId: 709015

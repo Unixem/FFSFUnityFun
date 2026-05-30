@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cf9c4462f87d444a99b96fedf695569f
+timeCreated: 1641152073
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshGraphHeuristic.cs
+  uploadId: 709015

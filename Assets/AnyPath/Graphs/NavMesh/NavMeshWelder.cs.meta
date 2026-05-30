@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 38f5164e3d42490abdcd2030a0332aed
+timeCreated: 1636362015
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshWelder.cs
+  uploadId: 709015

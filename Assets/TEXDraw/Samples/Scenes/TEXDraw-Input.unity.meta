@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f96a41d4d490474ba1b0a6e899743b8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/TEXDraw-Input.unity
+  uploadId: 885466

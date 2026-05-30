@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac49551df03ddce4eaf4d91bddab2173
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278978
+  packageName: FPS Framework 2.0
+  packageVersion: 2.2.3
+  assetPath: Assets/Akila/FPS Framework/Prefabs/HUD/MiniMap.prefab
+  uploadId: 891906

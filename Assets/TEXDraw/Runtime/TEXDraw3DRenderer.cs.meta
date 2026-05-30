@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 11fe3338b892f76499e836f08fa27bd6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Runtime/TEXDraw3DRenderer.cs
+  uploadId: 885466

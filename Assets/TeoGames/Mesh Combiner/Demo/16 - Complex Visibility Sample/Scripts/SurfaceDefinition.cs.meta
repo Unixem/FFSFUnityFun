@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 838f0c4fa2aef774c8e7d8c3b002d8a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Demo/16 - Complex Visibility Sample/Scripts/SurfaceDefinition.cs
+  uploadId: 897532

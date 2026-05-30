@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b44929edddcf8f44b56829e80f99864
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/_Mats/bouncer.physicMaterial
+  uploadId: 715727

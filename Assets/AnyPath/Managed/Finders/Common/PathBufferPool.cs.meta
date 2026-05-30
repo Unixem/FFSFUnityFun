@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dfa687080fde427a8dae431de31f6a6d
+timeCreated: 1636056135
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/Common/PathBufferPool.cs
+  uploadId: 709015

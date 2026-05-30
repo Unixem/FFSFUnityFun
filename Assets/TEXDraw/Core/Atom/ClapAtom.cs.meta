@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64310fe0ff76b1b4287977c4d472ab52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/Atom/ClapAtom.cs
+  uploadId: 885466

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fc4393cd451f7c459b3040c95de609c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Demo/16 - Complex Visibility Sample/Prefabs/Small
+    Animal.prefab
+  uploadId: 897532

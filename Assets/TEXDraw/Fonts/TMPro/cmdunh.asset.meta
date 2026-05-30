@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27d191665edcb49cc8d1b1d52d75a372
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/cmdunh.asset
+  uploadId: 885466

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c49092160d258648976c11bcf3c8169
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Demo/16 - Complex Visibility Sample/Prefabs/Map
+    Cell.prefab
+  uploadId: 897532

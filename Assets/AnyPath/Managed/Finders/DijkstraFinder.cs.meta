@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0ce4d17650664184a230c7e3b5524281
+timeCreated: 1678015047
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/DijkstraFinder.cs
+  uploadId: 709015

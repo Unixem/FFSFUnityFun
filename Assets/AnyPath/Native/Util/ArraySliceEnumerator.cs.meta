@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 05fe068e8a874c5496de5746728f639f
+timeCreated: 1691822753
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Util/ArraySliceEnumerator.cs
+  uploadId: 709015

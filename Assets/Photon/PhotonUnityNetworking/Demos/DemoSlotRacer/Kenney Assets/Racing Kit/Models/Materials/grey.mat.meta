@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b34ebdee5d4d60b43baa8cb211b29444
+timeCreated: 1495795922
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing
+    Kit/Models/Materials/grey.mat
+  uploadId: 817710

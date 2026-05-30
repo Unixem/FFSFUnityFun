@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1bea4d36d0671fa44944288aa92b2f85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/Atom/ParagraphAtom.cs
+  uploadId: 885466

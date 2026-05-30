@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a0872f74e451470db8f3b5c4acc4eb2b
+timeCreated: 1641057110
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Heuristics/LandmarkSelection.cs
+  uploadId: 709015

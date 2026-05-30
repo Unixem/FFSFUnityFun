@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bd396832002c4af08596cc987ad3dc47
+timeCreated: 1636212568
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/IPathFinder.cs
+  uploadId: 709015

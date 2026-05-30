@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a9148b59abd10484da69e55d1e7d6806
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.rngneeds/Samples~/03 Advanced Samples/Card
+    Battle/Card Battle Window Sample.asset
+  uploadId: 904270

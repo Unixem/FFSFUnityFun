@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: feff69009552745e7b041b549b36bc36
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/AnyPath.asmdef
+  uploadId: 709015

@@ -1,4 +1,4 @@
-using Tripolygon.UModelerX.Editor;
+﻿using Tripolygon.UModelerX.Editor;
 using System.Runtime.InteropServices;
 
 namespace Tripolygon.UModelerX.Runtime.ProBuilderChecker

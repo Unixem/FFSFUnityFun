@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 88cc754c58b746e680a437e2e43c68a9
+timeCreated: 1636270384
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Util/NativeMinHeap.cs
+  uploadId: 709015

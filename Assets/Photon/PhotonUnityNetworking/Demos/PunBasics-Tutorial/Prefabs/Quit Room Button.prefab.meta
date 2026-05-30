@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: b19bb80838bcf4457bf6f50a19c5593b
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Quit
+    Room Button.prefab
+  uploadId: 817710

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0e7d7e18bb9a4f03bc7cad83c45b5322
+timeCreated: 1642020266
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Heuristics/ALTSerialization.cs
+  uploadId: 709015

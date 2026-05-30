@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8f7a5c127d5712348879db3e4b9be445
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/TEXDraw-Tables.unity
+  uploadId: 885466

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 87aa529e89154627a230574aeb4b0db1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.rngneeds/Samples~/02 Intermediate Samples/CardDeck/Card
+    Deck Extensions Sample.asset
+  uploadId: 904270

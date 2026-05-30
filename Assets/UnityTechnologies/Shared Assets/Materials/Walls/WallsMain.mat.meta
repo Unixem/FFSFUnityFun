@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66a23b13ced89ca4b926ccc7656808db
+timeCreated: 1465470266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Shared Assets/Materials/Walls/WallsMain.mat
+  uploadId: 680588

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1fc4c3b85de64fa9873c3a843711d0dc
+timeCreated: 1641140537
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/CodeGen/Editor/ProcessorDefinition.cs
+  uploadId: 709015

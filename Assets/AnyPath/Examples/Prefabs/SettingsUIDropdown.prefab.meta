@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46cecbaaf349749259191c19625044f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Prefabs/SettingsUIDropdown.prefab
+  uploadId: 709015

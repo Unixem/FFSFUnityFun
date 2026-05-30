@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c47da4df5b10824eababcb5e2d96e94
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Demo/16 - Complex Visibility Sample/Prefabs/Cactus.prefab
+  uploadId: 897532

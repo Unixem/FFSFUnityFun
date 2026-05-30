@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1ab7dbb66e740485aaa216375f1359a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Extra/NativeTrees/Runtime/Quadtree/NativeQuadtree.cs
+  uploadId: 709015

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e38feec815162ac42a38d4f7cdb0049b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/Engine/TexOrchestrator.cs
+  uploadId: 885466

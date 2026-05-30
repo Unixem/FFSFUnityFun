@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a084243bb12c44355912581eec5dbb56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/VoxelGrid/Assets/Red Cube Material.mat
+  uploadId: 709015

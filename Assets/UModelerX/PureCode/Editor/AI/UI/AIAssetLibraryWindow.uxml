@@ -11,6 +11,9 @@
                     <ui:VisualElement name="credit-icon" class="assetlib-credit-icon" />
                     <ui:Label name="credit-value" text="0" class="assetlib-credit-value" />
                 </ui:Button>
+                <ui:Button name="workspace-switcher-button" class="assetlib-workspace-switcher-button" tooltip="Switch workspace">
+                    <ui:VisualElement name="workspace-switcher-icon" class="assetlib-workspace-switcher-icon" />
+                </ui:Button>
                 <ui:Button name="profile-dashboard-button" class="assetlib-profile-dashboard-button" tooltip="Open PicoBerry profile">
                     <ui:VisualElement name="profile-dashboard-icon" class="assetlib-profile-dashboard-icon" />
                 </ui:Button>
@@ -21,6 +24,51 @@
         <ui:VisualElement name="profile-popup" class="profile-popup hidden">
             <ui:Button name="profile-popup-profile-btn" class="profile-popup-item" text="Profile" />
             <ui:Button name="profile-popup-logout-btn"  class="profile-popup-item profile-popup-logout" text="Logout" />
+        </ui:VisualElement>
+
+        <!-- Workspace switcher overlay: MAX 멤버용 토글. 외부 클릭으로 dismiss. -->
+        <ui:VisualElement name="workspace-overlay" class="workspace-overlay hidden">
+            <ui:VisualElement name="workspace-overlay-backdrop" class="workspace-overlay-backdrop" />
+            <ui:VisualElement name="workspace-popup" class="workspace-popup">
+                <ui:Label text="CHOOSE WORKSPACE" class="workspace-popup-title" />
+                <ui:Button name="workspace-popup-personal-btn" class="workspace-popup-item">
+                    <ui:VisualElement name="workspace-popup-personal-icon" class="workspace-popup-item-icon" />
+                    <ui:VisualElement class="workspace-popup-item-body">
+                        <ui:VisualElement class="workspace-popup-item-row">
+                            <ui:Label text="Personal" class="workspace-popup-item-label" />
+                            <ui:VisualElement name="workspace-popup-personal-check" class="workspace-popup-check hidden" />
+                        </ui:VisualElement>
+                        <ui:Label name="workspace-popup-personal-desc" text="Your private workspace. Assets and collections you create here are only visible to you." class="workspace-popup-item-desc" />
+                    </ui:VisualElement>
+                </ui:Button>
+                <ui:Button name="workspace-popup-shared-btn" class="workspace-popup-item">
+                    <ui:VisualElement name="workspace-popup-shared-icon" class="workspace-popup-item-icon" />
+                    <ui:VisualElement class="workspace-popup-item-body">
+                        <ui:VisualElement class="workspace-popup-item-row">
+                            <ui:Label text="Team" class="workspace-popup-item-label" />
+                            <ui:VisualElement name="workspace-popup-shared-check" class="workspace-popup-check hidden" />
+                        </ui:VisualElement>
+                        <ui:Label name="workspace-popup-shared-desc" text="A workspace all 4 team members share. Assets and collections you create here are visible to everyone in the group." class="workspace-popup-item-desc" />
+                    </ui:VisualElement>
+                </ui:Button>
+                <ui:Label name="workspace-popup-note" text="Heads up — workspace switching applies to the asset list and collections. Newly generated assets save to the currently active workspace." class="workspace-popup-note" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+
+        <!-- Workspace promo overlay: 비-MAX 사용자에게 팀 플랜 안내. 외부 클릭으로 dismiss. -->
+        <ui:VisualElement name="workspace-promo-overlay" class="workspace-overlay hidden">
+            <ui:VisualElement name="workspace-promo-overlay-backdrop" class="workspace-overlay-backdrop" />
+            <ui:VisualElement name="workspace-promo-popup" class="workspace-promo-popup">
+                <ui:VisualElement name="workspace-promo-icon" class="workspace-promo-icon" />
+                <ui:Label text="Team workspace" class="workspace-promo-title" />
+                <ui:Label text="On the MAX plan, up to 4 members share a single workspace, group-pool credits, and every premium model." class="workspace-promo-desc" />
+                <ui:VisualElement class="workspace-promo-features">
+                    <ui:Label text="• Shared asset library and collections" class="workspace-promo-feature" />
+                    <ui:Label text="• Pooled credits for the whole team" class="workspace-promo-feature" />
+                    <ui:Label text="• Up to 4 seats (owner + 3)" class="workspace-promo-feature" />
+                </ui:VisualElement>
+                <ui:Button name="workspace-promo-cta-btn" class="workspace-promo-cta-btn" text="See MAX plan" />
+            </ui:VisualElement>
         </ui:VisualElement>
 
         <!-- Category filter row: Image / 3D (outside scroll, visually attached to content) -->

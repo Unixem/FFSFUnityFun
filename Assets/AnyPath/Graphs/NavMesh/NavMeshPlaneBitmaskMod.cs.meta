@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 98fa27a134d447afaf6b15859fcb67c9
+timeCreated: 1692529403
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshPlaneBitmaskMod.cs
+  uploadId: 709015

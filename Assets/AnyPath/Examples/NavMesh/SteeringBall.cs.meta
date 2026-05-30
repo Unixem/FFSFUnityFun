@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8e53eda6bc9f48e2b9f13ce465d200a9
+timeCreated: 1636373837
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/NavMesh/SteeringBall.cs
+  uploadId: 709015

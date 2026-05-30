@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37137b524c1bc134c93e4ef9471abc1c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Resources/TEX-Sprite.mat
+  uploadId: 885466

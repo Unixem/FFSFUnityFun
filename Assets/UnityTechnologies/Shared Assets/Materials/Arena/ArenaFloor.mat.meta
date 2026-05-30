@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43d8a8700153b6546a04fb16ffe25346
+timeCreated: 1465470389
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Shared Assets/Materials/Arena/ArenaFloor.mat
+  uploadId: 680588

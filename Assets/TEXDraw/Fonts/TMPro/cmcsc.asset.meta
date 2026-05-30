@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbe297ed95af34615b465be0f8b592ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/cmcsc.asset
+  uploadId: 885466

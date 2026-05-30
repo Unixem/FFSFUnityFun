@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e5471d5b9a53424eb332b656d5054b7c
+timeCreated: 1635766891
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/Common/FinderFluidInterfaces.cs
+  uploadId: 709015

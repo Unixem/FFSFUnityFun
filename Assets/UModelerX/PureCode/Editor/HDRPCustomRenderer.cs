@@ -1,4 +1,4 @@
-#if HDRP_ENABLED && UNITY_EDITOR
+﻿#if HDRP_ENABLED && UNITY_EDITOR
 using System.Collections.Generic;
 
 using UnityEngine;

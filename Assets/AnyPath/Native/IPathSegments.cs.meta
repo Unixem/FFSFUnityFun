@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d5ceed746a884e8dabe5711316d5fa29
+timeCreated: 1647355645
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/IPathSegments.cs
+  uploadId: 709015

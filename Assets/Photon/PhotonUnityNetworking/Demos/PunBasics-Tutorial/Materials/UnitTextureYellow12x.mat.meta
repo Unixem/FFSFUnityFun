@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ceba02e8dfaf34474b36fe43b51b69db
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Materials/UnitTextureYellow12x.mat
+  uploadId: 817710

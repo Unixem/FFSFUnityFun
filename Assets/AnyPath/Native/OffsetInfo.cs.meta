@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 12c64f4c77944a03860731e21d0d45c7
+timeCreated: 1635445903
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/OffsetInfo.cs
+  uploadId: 709015

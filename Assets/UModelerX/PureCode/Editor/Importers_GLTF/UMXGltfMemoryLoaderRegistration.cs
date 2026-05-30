@@ -1,4 +1,4 @@
-using Tripolygon.UModelerX.Editor.Utilities.LayoutPreset;
+﻿using Tripolygon.UModelerX.Editor.Utilities.LayoutPreset;
 using UnityEditor;
 
 namespace Tripolygon.UModelerX.Editor.Importers.GLTF

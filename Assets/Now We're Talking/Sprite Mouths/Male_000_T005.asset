@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2974836da67e5eb4c9c97f3c7d0fe1ea, type: 3}
+  m_Name: Male_000_T005
+  m_EditorClassIdentifier: 
+  mouthName: _Male000_005
+  mouthDescription: Male_Pink_Lips
+  sprites:
+  - {fileID: 21300000, guid: 71efb7d91f569e94eab7ed4be7d2616a, type: 3}
+  - {fileID: 21300000, guid: 198aef6c576478f44ac5ac68ad2f13b0, type: 3}
+  - {fileID: 21300000, guid: 23805e1c2bbaaeb41a3bbadcefcf3fc0, type: 3}
+  - {fileID: 21300000, guid: f10c1170c71eef54691c25b234e45fb3, type: 3}
+  - {fileID: 21300000, guid: 8245df39f6a1f3e448763c757f0f8f54, type: 3}
+  - {fileID: 21300000, guid: d53f524a313699c47857137956f8d01e, type: 3}
+  - {fileID: 21300000, guid: ba813372419484f45aa1b3897f5e23e4, type: 3}
+  - {fileID: 21300000, guid: 88048745b9aaa534eaaefd91a27bfacd, type: 3}
+  - {fileID: 21300000, guid: 22f77767eb8c73b47a891f92be9f4111, type: 3}
+  - {fileID: 21300000, guid: feef305e2747f5748bba6370615c7593, type: 3}
+  - {fileID: 21300000, guid: 13767a7012832754882adf414ec19a29, type: 3}
+  - {fileID: 21300000, guid: 748e507f901d3854eb4c8283211a912f, type: 3}
+  - {fileID: 21300000, guid: 5de95b11cb43c2e4a96110b79580a34d, type: 3}
+  - {fileID: 21300000, guid: a7a092fabf38f5c46bcbb2ae459a37f6, type: 3}
+  - {fileID: 21300000, guid: 8b9033c2051ac3347bcc005d9c1c0e85, type: 3}
+  - {fileID: 21300000, guid: db83df39f317fa946a252cd183f2debd, type: 3}
+  - {fileID: 21300000, guid: c175c419f2a74074baa2390aba5c1bd5, type: 3}
+  emotions: []

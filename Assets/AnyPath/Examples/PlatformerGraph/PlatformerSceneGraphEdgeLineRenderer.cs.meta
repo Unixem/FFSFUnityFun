@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 86a6b5d685ad40fc80dd08ed8e94c66a
+timeCreated: 1646052900
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/PlatformerGraph/PlatformerSceneGraphEdgeLineRenderer.cs
+  uploadId: 709015

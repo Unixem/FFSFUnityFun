@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4a5dfc5398854b0bab7ba9f795fbb8b9
+timeCreated: 1638786945
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/Processing/UnrolledNavMeshGraphPortal.cs
+  uploadId: 709015

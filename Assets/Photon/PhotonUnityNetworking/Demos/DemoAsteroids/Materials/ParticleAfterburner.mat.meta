@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc1a05fba9a6af241a25a35b4caf5e27
+timeCreated: 1505213349
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Materials/ParticleAfterburner.mat
+  uploadId: 817710

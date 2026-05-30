@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0fde49cf096b4fc9a9884fdaf25beae
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Extra/NativeTrees/CHANGELOG.md
+  uploadId: 709015

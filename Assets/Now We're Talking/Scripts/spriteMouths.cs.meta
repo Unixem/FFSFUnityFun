@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2974836da67e5eb4c9c97f3c7d0fe1ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207327
+  packageName: Now We're Talking!
+  packageVersion: 1.09 - Sprite Mouths
+  assetPath: Assets/Now We're Talking/Scripts/spriteMouths.cs
+  uploadId: 838750

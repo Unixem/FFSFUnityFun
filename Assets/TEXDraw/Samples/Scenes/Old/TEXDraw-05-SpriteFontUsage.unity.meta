@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93264edf60f3c0148a7c70c9f262ded5
+timeCreated: 1466033549
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/Old/TEXDraw-05-SpriteFontUsage.unity
+  uploadId: 885466

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab36d1fbdcd22334f9bf7fa63e0dae94
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Resources/TexFontMetaData/cmsl.asset
+  uploadId: 885466

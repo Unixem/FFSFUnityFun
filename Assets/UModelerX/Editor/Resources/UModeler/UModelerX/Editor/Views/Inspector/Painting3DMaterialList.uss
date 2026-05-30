@@ -138,6 +138,11 @@
     overflow: hidden;
 }
 
+/* Unity 인스펙터 기본 스타일의 margin-right: -2px 음수 마진 무력화 (우측 잘림 방지) */
+.painting3d-mat-section > .unity-base-field {
+    margin-right: 0;
+}
+
 /* 섹션 내 버튼 상단 여백 */
 .painting3d-mat-section > Button {
     margin-top: 4px;

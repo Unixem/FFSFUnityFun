@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74accbc7adb694a4c9658ba0a8d4a6d0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/SquareGrid/Assets/CircleTile.asset
+  uploadId: 709015

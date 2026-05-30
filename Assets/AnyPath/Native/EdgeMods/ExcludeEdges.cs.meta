@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0a5fab018f834346b6b3bbb1715e78e4
+timeCreated: 1722681915
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/EdgeMods/ExcludeEdges.cs
+  uploadId: 709015

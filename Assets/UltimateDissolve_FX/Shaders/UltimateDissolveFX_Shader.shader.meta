@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b1b229594ad126848a479a8ccee6ca6a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MaskMap: {fileID: 2800000, guid: acb2657f3ed7d0c468e2a4044a636b2b, type: 3}
+  - _MainMap: {fileID: 2800000, guid: d8cfe409d2fb65842a7151f63c8307c5, type: 3}
+  - _MainColorMap: {fileID: 2800000, guid: d8cfe409d2fb65842a7151f63c8307c5, type: 3}
+  - _Pattern: {fileID: 2800000, guid: b73f7b35313a28849849078e2ba59c1e, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257761
+  packageName: Ultimate Dissolve FX Pack
+  packageVersion: 1.0
+  assetPath: Assets/UltimateDissolve_FX/Shaders/UltimateDissolveFX_Shader.shader
+  uploadId: 598993

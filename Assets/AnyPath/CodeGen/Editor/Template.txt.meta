@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fb85d205c2714f86bada8fa650f5f31a
+timeCreated: 1636222820
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/CodeGen/Editor/Template.txt
+  uploadId: 709015

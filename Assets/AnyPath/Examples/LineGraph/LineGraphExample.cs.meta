@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4adb08fc63dd45bd884038996c06d99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/LineGraph/LineGraphExample.cs
+  uploadId: 709015

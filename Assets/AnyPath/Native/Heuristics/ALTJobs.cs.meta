@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 02a09177b0e943198c5d0afc592f128d
+timeCreated: 1704706008
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Heuristics/ALTJobs.cs
+  uploadId: 709015

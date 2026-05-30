@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1cd51492876c4604908edabb476b50a2
+timeCreated: 1669650606
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NodeGraph/NodeGraphHeuristicProvider.cs
+  uploadId: 709015

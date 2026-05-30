@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4d74ed5faed84e3f857ed234ce9afe1b
+timeCreated: 1635499567
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/ManagedDisposeExtensions.cs
+  uploadId: 709015

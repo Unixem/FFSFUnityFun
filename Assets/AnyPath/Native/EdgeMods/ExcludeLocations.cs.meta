@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0584a3e6567c494ab20d9892f741ecf2
+timeCreated: 1722682220
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/EdgeMods/ExcludeLocations.cs
+  uploadId: 709015

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 26c91583757f435097851cfae112a38c
+timeCreated: 1629828363
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/OptionFinder.cs
+  uploadId: 709015

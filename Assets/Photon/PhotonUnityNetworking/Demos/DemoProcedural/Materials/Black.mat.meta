@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1598ff147655ecb4893e78f88baa9475
+timeCreated: 1524052433
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Black.mat
+  uploadId: 817710

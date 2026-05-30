@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44068a4f60ad744d4bbde070bf983c50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Prefabs/Settings UI Canvas.prefab
+  uploadId: 709015

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe90c523bb017428c83c02ebdecc5000
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/VoxelGrid/Assets/Path Cube.prefab
+  uploadId: 709015

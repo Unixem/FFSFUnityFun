@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e64527742c2a42c68d44884d175d9fe9
+timeCreated: 1730939087
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Scripts/Extension/LazyDestroyContainer.cs
+  uploadId: 897532

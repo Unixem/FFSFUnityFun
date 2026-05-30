@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 13f1f3cd22254307855bdeccf361dd77
+timeCreated: 1669565700
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/LineGraph/SceneGraph/LineSceneGraphEdge.cs
+  uploadId: 709015

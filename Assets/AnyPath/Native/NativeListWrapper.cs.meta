@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 135136ea309b4aeba874266f4e84ecb5
+timeCreated: 1643625105
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/NativeListWrapper.cs
+  uploadId: 709015

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 08a110bd598f7604f9519c2d7e1fb3cc
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonChat/Code/PhotonChat.asmdef
+  uploadId: 817710

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d8bfa0100f8c9b047a2ccd04c429cb9e
+timeCreated: 1469609681
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/Old/TEXDraw-04-LinkBehaviour.unity
+  uploadId: 885466

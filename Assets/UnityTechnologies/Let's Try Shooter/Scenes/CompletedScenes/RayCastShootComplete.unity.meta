@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d967eb1fce7392f419ba31a825a5c4fb
+timeCreated: 1467893157
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Let's Try Shooter/Scenes/CompletedScenes/RayCastShootComplete.unity
+  uploadId: 680588

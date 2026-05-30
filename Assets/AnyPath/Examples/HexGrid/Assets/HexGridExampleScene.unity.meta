@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a69610db25f8474a8e10f9ec6bf9ea27
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/HexGrid/Assets/HexGridExampleScene.unity
+  uploadId: 709015

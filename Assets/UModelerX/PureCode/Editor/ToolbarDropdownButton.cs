@@ -1,4 +1,4 @@
-#if !UNITY_2021_2_OR_NEWER // UNITY_2020_1 ~ UNITY_2021_1
+﻿#if !UNITY_2021_2_OR_NEWER // UNITY_2020_1 ~ UNITY_2021_1
 using System;
 using UnityEditor;
 using UnityEngine;

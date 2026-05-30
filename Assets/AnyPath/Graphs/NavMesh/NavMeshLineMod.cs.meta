@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 10935ef7a6594cce832c60240477171c
+timeCreated: 1691826121
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshLineMod.cs
+  uploadId: 709015

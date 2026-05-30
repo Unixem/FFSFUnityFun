@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c315879e21319a04c947fd8a97150a5c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/TEXDraw-Docs.unity
+  uploadId: 885466

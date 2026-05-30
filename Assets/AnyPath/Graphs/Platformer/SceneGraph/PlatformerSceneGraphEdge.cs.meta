@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7c179b7a3e634c41b2f8ecb3b4961792
+timeCreated: 1639944515
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Platformer/SceneGraph/PlatformerSceneGraphEdge.cs
+  uploadId: 709015

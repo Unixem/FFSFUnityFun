@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 58bcb56701754d11a75b0bbd87045dfa
+timeCreated: 1635101114
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/AStar/AStarStops.cs
+  uploadId: 709015

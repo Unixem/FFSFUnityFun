@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f5c06b3526174ec18d63c1011cd8a46d
+timeCreated: 1635448548
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/AStar/AStarCheapestOption.cs
+  uploadId: 709015

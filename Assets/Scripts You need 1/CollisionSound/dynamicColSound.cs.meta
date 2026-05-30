@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44fea102391c9094f99f5f5bd6eb8a05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/CollisionSound/dynamicColSound.cs
+  uploadId: 715727

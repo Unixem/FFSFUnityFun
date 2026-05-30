@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7cb9b2e4c91e41429976a3ae69e1b9b9
+timeCreated: 1692524990
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Advanced/LineGraphAndPlatformerGraphBuilding.cs
+  uploadId: 709015

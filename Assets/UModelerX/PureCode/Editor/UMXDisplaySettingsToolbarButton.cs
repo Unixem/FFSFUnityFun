@@ -1,4 +1,4 @@
-using UnityEditor;
+﻿using UnityEditor;
 using Tripolygon.UModelerX.Editor.MeshOpsProcessor;
 
 namespace Tripolygon.UModelerX.Editor.Views.Toolbar

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd644746d7159df42b0c206b559af881
+timeCreated: 1524052433
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/LightGreen.mat
+  uploadId: 817710

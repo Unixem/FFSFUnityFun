@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a4b1bb269e24498a57da4702b527702
+timeCreated: 1636024273
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/PriorityOptionEvaluator.cs
+  uploadId: 709015

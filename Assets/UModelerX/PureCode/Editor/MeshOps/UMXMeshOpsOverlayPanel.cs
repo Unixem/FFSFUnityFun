@@ -1,4 +1,4 @@
-#if UNITY_2021_2_OR_NEWER
+﻿#if UNITY_2021_2_OR_NEWER
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEditor.Overlays;

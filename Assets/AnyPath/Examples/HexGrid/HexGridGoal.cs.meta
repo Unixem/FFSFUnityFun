@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 555f939f48ff49f1b2fce0613526945c
+timeCreated: 1608455018
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/HexGrid/HexGridGoal.cs
+  uploadId: 709015

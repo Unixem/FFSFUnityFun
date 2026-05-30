@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7bdcb2d22efd0143a227daec4d02c5e
+timeCreated: 1488717145
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/Old/TEXDraw-06-SimpleNote.unity
+  uploadId: 885466

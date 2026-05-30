@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 570a0b39ee4e48a19de0d484f4bc8c3d
+timeCreated: 1721554658
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/VoxelGrid/VoxelGridDirectionFlags.cs
+  uploadId: 709015

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e714163ed688a55499e661e7897007e9
+timeCreated: 1458257039
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/TEXDraw-Practice.unity
+  uploadId: 885466

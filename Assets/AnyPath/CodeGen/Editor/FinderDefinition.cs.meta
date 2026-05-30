@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1cecf4344bff43a5a6eb19bd6a8ea784
+timeCreated: 1636214620
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/CodeGen/Editor/FinderDefinition.cs
+  uploadId: 709015

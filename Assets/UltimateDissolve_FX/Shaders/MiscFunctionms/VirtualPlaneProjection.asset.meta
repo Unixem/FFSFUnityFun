@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 429a6c69c5ef8fc4e842944468f87c2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257761
+  packageName: Ultimate Dissolve FX Pack
+  packageVersion: 1.0
+  assetPath: Assets/UltimateDissolve_FX/Shaders/MiscFunctionms/VirtualPlaneProjection.asset
+  uploadId: 598993

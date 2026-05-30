@@ -1,4 +1,4 @@
-#if UNITY_2021_2_OR_NEWER
+﻿#if UNITY_2021_2_OR_NEWER
 using UnityEditor.Toolbars;
 using Tripolygon.UModelerX.Editor.Views.Toolbar;
 using Tripolygon.UModelerX.Editor.MeshOpsProcessor;

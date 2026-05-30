@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5739c88f81f7c61469cca3e0ae6d4e3b
+timeCreated: 1522224186
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scripts/TexSampleInputDemo.cs
+  uploadId: 885466

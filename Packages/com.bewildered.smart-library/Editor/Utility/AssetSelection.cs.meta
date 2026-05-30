@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 71678686c1bd3d242a1a697661f7aa19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200724
+  packageName: Smart Library - Asset Manager
+  packageVersion: 2.6.5
+  assetPath: Packages/com.bewildered.smart-library/Editor/Utility/AssetSelection.cs
+  uploadId: 924164

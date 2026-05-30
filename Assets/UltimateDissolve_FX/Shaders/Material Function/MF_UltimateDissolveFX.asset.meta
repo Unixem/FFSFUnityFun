@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad15fac1a5a41204f9427c4d4ce0c1fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257761
+  packageName: Ultimate Dissolve FX Pack
+  packageVersion: 1.0
+  assetPath: Assets/UltimateDissolve_FX/Shaders/Material Function/MF_UltimateDissolveFX.asset
+  uploadId: 598993

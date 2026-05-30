@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8a9d1312a49dc8488a9b32d83d659c7
+timeCreated: 1505212662
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Scenes/DemoAsteroids-LobbyScene.unity
+  uploadId: 817710

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5d7030f6df42ef34a84429a52c14f84f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/MovePlatform/MovingPlatform.cs
+  uploadId: 715727

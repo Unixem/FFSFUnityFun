@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fce468eba54b9f64898f421b4520c3a7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Shaders/TEXDrawGUIAlphaOnly.shader
+  uploadId: 885466

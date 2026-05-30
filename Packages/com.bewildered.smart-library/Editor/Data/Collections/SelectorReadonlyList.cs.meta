@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8311a3240adb4c4fabfe4e5fca4f2617
+timeCreated: 1739562009
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200724
+  packageName: Smart Library - Asset Manager
+  packageVersion: 2.6.5
+  assetPath: Packages/com.bewildered.smart-library/Editor/Data/Collections/SelectorReadonlyList.cs
+  uploadId: 924164

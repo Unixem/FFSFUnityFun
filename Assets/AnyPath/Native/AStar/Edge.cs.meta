@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0320287dad3f4ded9a08229237be9081
+timeCreated: 1637097812
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/AStar/Edge.cs
+  uploadId: 709015

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e016c8d59ed440c797415652012fa48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/PlatformerGraph/PlatformerGraphExample.unity
+  uploadId: 709015

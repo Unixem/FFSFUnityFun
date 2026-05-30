@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0317a3cc2762409db12b75254e63f40f
+timeCreated: 1641150813
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshGraphCorners3D.cs
+  uploadId: 709015

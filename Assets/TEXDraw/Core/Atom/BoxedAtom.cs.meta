@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37b0c8e73590d334ca82bd1b77183759
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/Atom/BoxedAtom.cs
+  uploadId: 885466

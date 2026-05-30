@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c072840f3c81431094554b66d2825d1a
+timeCreated: 1636365459
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshGraph.cs
+  uploadId: 709015

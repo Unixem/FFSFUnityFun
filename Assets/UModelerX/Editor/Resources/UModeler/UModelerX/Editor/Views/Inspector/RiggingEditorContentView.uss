@@ -40,6 +40,11 @@
     overflow: hidden;
 }
 
+/* Unity 인스펙터 기본 스타일의 margin-right: -2px 음수 마진 무력화 (우측 잘림 방지) */
+.umx-panel__content > .unity-base-field {
+    margin-right: 0;
+}
+
 /* 리깅 에디터 콘텐츠 뷰 루트 컨테이너 */
 .rigging-editor-content-view {
     flex-grow: 1;

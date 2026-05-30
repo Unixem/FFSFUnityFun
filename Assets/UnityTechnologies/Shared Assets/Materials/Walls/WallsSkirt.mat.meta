@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ded50ec78043d6f4e8f499ce4939ae52
+timeCreated: 1465470266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Shared Assets/Materials/Walls/WallsSkirt.mat
+  uploadId: 680588

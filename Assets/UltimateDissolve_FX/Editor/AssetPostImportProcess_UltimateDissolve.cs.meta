@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02533e63dfcebfe45a46bf9d5eb16c65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257761
+  packageName: Ultimate Dissolve FX Pack
+  packageVersion: 1.0
+  assetPath: Assets/UltimateDissolve_FX/Editor/AssetPostImportProcess_UltimateDissolve.cs
+  uploadId: 598993

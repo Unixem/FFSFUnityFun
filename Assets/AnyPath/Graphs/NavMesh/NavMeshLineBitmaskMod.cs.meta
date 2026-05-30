@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 25228399cac3424d9f0eae4e79406d09
+timeCreated: 1691828202
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshLineBitmaskMod.cs
+  uploadId: 709015

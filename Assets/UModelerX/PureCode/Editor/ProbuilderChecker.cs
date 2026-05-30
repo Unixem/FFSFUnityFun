@@ -1,4 +1,4 @@
-namespace Tripolygon.UModelerX.Runtime.ProBuilderChecker
+﻿namespace Tripolygon.UModelerX.Runtime.ProBuilderChecker
 {
     public class ProBuilderChecker
     {

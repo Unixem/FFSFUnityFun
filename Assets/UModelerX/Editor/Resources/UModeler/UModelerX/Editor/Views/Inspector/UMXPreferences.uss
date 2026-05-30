@@ -178,6 +178,8 @@
 .umx-pref-slider-value {
     width: 60px;
     flex-shrink: 0;
+    /* Unity 인스펙터 기본 스타일의 margin-right: -2px 음수 마진 무력화 (우측 잘림 방지) */
+    margin-right: 0;
 }
 
 

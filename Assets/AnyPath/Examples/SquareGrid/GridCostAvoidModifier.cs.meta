@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 991457c37eaf4c0ebcd61a891000009b
+timeCreated: 1635184223
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/SquareGrid/GridCostAvoidModifier.cs
+  uploadId: 709015

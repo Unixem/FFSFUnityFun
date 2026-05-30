@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e8655beae2a8445a8a3fec55295dcc67
+timeCreated: 1721456632
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/VoxelGrid/VoxelGridHeuristicProvider.cs
+  uploadId: 709015

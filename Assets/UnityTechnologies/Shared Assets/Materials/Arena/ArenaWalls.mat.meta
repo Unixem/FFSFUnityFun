@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 499ff82306831734f8ffd59583f0b6d2
+timeCreated: 1465470266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Shared Assets/Materials/Arena/ArenaWalls.mat
+  uploadId: 680588

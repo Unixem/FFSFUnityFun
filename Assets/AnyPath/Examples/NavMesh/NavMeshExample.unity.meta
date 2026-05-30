@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73debc39b9f444bbda02998324a9e2b5
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/NavMesh/NavMeshExample.unity
+  uploadId: 709015

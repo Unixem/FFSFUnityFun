@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4f97ddda16dd46bfbfb3f015eeb6a88
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/changelog.txt
+  uploadId: 709015

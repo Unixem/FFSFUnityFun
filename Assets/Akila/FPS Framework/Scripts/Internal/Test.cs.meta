@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 044d1a59c60a5214089b44c5e85d889b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 278978
+  packageName: FPS Framework 2.0
+  packageVersion: 2.2.3
+  assetPath: Assets/Akila/FPS Framework/Scripts/Internal/Test.cs
+  uploadId: 891906

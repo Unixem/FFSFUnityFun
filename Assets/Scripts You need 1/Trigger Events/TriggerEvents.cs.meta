@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01e33703833199d4ca590d511584f6ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/Trigger Events/TriggerEvents.cs
+  uploadId: 715727

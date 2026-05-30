@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 302f23f6a90204412b3a115c62197295
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Prefabs/SettingsUISlider.prefab
+  uploadId: 709015

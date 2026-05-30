@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1f468d0a23ef40ee99b804efc261e965
+timeCreated: 1722067888
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/VoxelGrid/VoxelGridHeuristcProviderManhattanDistance.cs
+  uploadId: 709015

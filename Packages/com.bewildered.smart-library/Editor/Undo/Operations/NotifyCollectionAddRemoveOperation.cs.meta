@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: a84755b3fb8342239a5c91e1c89bceee
+timeCreated: 1690733431
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200724
+  packageName: Smart Library - Asset Manager
+  packageVersion: 2.6.5
+  assetPath: Packages/com.bewildered.smart-library/Editor/Undo/Operations/NotifyCollectionAddRemoveOperation.cs
+  uploadId: 924164

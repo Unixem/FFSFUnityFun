@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e2f8b4405821468999a29ae21f171156
+timeCreated: 1739571518
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200724
+  packageName: Smart Library - Asset Manager
+  packageVersion: 2.6.5
+  assetPath: Packages/com.bewildered.smart-library/Editor/View/Base/SelectToggle.cs
+  uploadId: 924164

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b98f5396bce4494b80c7e1d40b658fb
+timeCreated: 1461013920
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Samples/Scenes/Old/TEXDraw-02-PerformanceTest.unity
+  uploadId: 885466

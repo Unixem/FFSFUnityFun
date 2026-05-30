@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 4c518ab08c0c467f9061f8abf209b6eb
+timeCreated: 1678015089
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Results/DijkstraResult.cs
+  uploadId: 709015

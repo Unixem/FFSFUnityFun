@@ -1,4 +1,4 @@
-
+﻿
 using UnityEngine;
 
 namespace Tripolygon.UModelerX.Runtime.PureCode

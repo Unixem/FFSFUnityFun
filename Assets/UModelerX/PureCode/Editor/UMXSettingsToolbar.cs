@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEditor;
 
 namespace Tripolygon.UModelerX.Editor.Views.Toolbar

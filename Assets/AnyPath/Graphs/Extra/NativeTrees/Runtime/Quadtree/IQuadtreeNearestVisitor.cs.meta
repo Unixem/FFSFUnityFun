@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8eae0ba9d1a0044bda7f4e277e2b643b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Extra/NativeTrees/Runtime/Quadtree/IQuadtreeNearestVisitor.cs
+  uploadId: 709015

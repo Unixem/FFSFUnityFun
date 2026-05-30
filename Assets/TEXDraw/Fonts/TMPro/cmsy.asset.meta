@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 295c9888a027042fc9299514c23eed9e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/cmsy.asset
+  uploadId: 885466

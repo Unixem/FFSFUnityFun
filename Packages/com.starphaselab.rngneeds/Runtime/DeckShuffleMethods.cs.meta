@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 6e2c8430d3944ac7b693949f12f47d95
+timeCreated: 1776385800
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.rngneeds/Runtime/DeckShuffleMethods.cs
+  uploadId: 904270

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9e09d252b965476baf37076338cacc7b
+timeCreated: 1684401275
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.core/Runtime/SerializableDateTime.cs
+  uploadId: 904270

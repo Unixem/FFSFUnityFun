@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 93bf14a05a0d4c5b9443e30e557fa309
+timeCreated: 1725999634
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Scripts/Profile/UpdateQueueTimer.cs
+  uploadId: 897532

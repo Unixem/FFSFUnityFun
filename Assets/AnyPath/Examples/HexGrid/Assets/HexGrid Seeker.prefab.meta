@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5d323d9b9e594be6836e30b32667802
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/HexGrid/Assets/HexGrid Seeker.prefab
+  uploadId: 709015

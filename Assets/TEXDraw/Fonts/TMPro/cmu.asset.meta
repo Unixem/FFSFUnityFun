@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa95f4ad6b0194ff58711045c7f25545
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/cmu.asset
+  uploadId: 885466

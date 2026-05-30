@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fc460e7a5a7d42cda8926ca5a2e858fc
+timeCreated: 1635450716
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/CheapestOptionEvaluator.cs
+  uploadId: 709015

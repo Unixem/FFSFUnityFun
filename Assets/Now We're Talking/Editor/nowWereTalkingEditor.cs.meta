@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f083f4757ab2f5149831462749926660
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207327
+  packageName: Now We're Talking!
+  packageVersion: 1.09 - Sprite Mouths
+  assetPath: Assets/Now We're Talking/Editor/nowWereTalkingEditor.cs
+  uploadId: 838750

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 252e3684715ac41c192556475eb51f70
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/LineGraph/LineGraphExample.unity
+  uploadId: 709015

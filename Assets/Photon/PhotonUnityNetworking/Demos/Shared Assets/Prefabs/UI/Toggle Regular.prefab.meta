@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 82b2227f60269dd46b9a921faca9dc1f
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Toggle
+    Regular.prefab
+  uploadId: 817710

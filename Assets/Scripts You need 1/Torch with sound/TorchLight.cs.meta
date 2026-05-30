@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b67adfe9ceb5ba449adee1031ed00796
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/Torch with sound/TorchLight.cs
+  uploadId: 715727

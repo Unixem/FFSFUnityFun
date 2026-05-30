@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fdf20db6291b4b8aabb7c42cbcef1d09
+timeCreated: 1665990010
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshPopulator.cs
+  uploadId: 709015

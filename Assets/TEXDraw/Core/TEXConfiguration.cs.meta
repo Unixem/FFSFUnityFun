@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fb281b282af82a74a8232270ec331b74
+timeCreated: 1490358998
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/TEXConfiguration.cs
+  uploadId: 885466

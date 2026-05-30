@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: de8fa380345bc4df199771c5bdba3997
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/Common/GridExampleUtil.cs
+  uploadId: 709015

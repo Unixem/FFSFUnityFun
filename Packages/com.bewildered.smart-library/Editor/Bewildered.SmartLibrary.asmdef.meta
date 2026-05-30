@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8206714c78b0cac4797e23e10894dea5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 200724
+  packageName: Smart Library - Asset Manager
+  packageVersion: 2.6.5
+  assetPath: Packages/com.bewildered.smart-library/Editor/Bewildered.SmartLibrary.asmdef
+  uploadId: 924164

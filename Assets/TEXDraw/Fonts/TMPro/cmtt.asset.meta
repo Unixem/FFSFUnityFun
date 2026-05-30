@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bf96636855a4420c8d6c161bd27b117
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/cmtt.asset
+  uploadId: 885466

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2c4bedad0e1a4ecebef7268d40eec182
+timeCreated: 1629728627
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Results/AStarFindPathResult.cs
+  uploadId: 709015

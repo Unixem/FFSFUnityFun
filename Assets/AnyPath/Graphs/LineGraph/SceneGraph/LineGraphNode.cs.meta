@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e317378fcf2c4ce6ba88d8735bb0d550
+timeCreated: 1669565706
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/LineGraph/SceneGraph/LineGraphNode.cs
+  uploadId: 709015

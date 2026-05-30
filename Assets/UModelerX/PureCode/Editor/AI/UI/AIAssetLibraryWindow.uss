@@ -106,6 +106,33 @@
     margin-right: 10px;
 }
 
+/* ── Workspace switcher (Personal / Shared 토글) ──────────────────── */
+/* 크레딧 우측, 프로필 좌측. 비-MAX 사용자에게도 항상 노출되어 패널로 팀 플랜 안내. */
+.assetlib-workspace-switcher-button {
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    min-height: 28px;
+    padding: 0;
+    margin: 0 8px 0 0;
+    border-width: 0;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0);
+    align-items: center;
+    justify-content: center;
+}
+
+.assetlib-workspace-switcher-button:hover {
+    background-color: rgb(58, 58, 58);
+}
+
+.assetlib-workspace-switcher-icon {
+    width: 16px;
+    height: 16px;
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-background-image-tint-color: rgb(200, 200, 200);
+}
+
 /* 프로필/대시보드 버튼: 원형, 고정 크기 */
 .assetlib-profile-dashboard-button {
     width: 30px;
@@ -169,6 +196,210 @@
 
 .profile-popup-logout {
     color: rgb(236, 94, 127);
+}
+
+/* ── Workspace overlay container (외부 클릭 dismiss) ──────────────── */
+/* 전체 화면을 덮는 픽킹 가능한 투명 영역. 안에 backdrop + popup 패널이 들어감. */
+.workspace-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.workspace-overlay.hidden {
+    display: none;
+}
+
+/* 투명 backdrop — 클릭을 흡수해서 popup 외부 클릭 시 닫음. 시각적 dim 없음. */
+.workspace-overlay-backdrop {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+/* ── Workspace popup (MAX 멤버용 토글) ────────────────────────────── */
+.workspace-popup {
+    position: absolute;
+    top: 40px;
+    right: 44px;
+    width: 280px;
+    background-color: rgb(38, 38, 38);
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(65, 65, 65);
+    padding: 8px;
+    flex-direction: column;
+}
+
+.workspace-popup-title {
+    font-size: 10px;
+    color: rgb(140, 140, 140);
+    -unity-font-style: bold;
+    padding: 4px 8px 6px 8px;
+    margin: 0;
+}
+
+.workspace-popup-item {
+    margin: 0;
+    padding: 8px;
+    border-width: 0;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0);
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.workspace-popup-item:hover {
+    background-color: rgb(50, 50, 50);
+}
+
+.workspace-popup-item--selected {
+    background-color: rgba(236, 94, 127, 0.12);
+}
+
+.workspace-popup-item-icon {
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+    border-radius: 6px;
+    background-color: rgb(55, 55, 55);
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-background-image-tint-color: rgb(180, 180, 180);
+}
+
+.workspace-popup-item--selected > .workspace-popup-item-icon {
+    background-color: rgba(236, 94, 127, 0.2);
+    -unity-background-image-tint-color: rgb(245, 124, 152);
+}
+
+.workspace-popup-item-body {
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.workspace-popup-item-row {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.workspace-popup-item-label {
+    font-size: 13px;
+    color: rgb(225, 225, 225);
+    -unity-font-style: bold;
+    margin: 0;
+    padding: 0;
+    -unity-text-align: middle-left;
+}
+
+.workspace-popup-item--selected > .workspace-popup-item-body > .workspace-popup-item-row > .workspace-popup-item-label {
+    color: rgb(245, 124, 152);
+}
+
+.workspace-popup-item-desc {
+    font-size: 11px;
+    color: rgb(160, 160, 160);
+    margin: 2px 0 0 0;
+    padding: 0;
+    white-space: normal;
+    -unity-text-align: upper-left;
+}
+
+.workspace-popup-check {
+    width: 12px;
+    height: 12px;
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-background-image-tint-color: rgb(245, 124, 152);
+}
+
+.workspace-popup-note {
+    font-size: 10px;
+    color: rgb(130, 130, 130);
+    padding: 8px 8px 4px 8px;
+    margin: 4px 0 0 0;
+    border-top-width: 1px;
+    border-top-color: rgb(55, 55, 55);
+    white-space: normal;
+    -unity-text-align: upper-left;
+}
+
+/* ── Workspace promo popup (비-MAX 사용자 팀 플랜 안내) ───────────── */
+.workspace-promo-popup {
+    position: absolute;
+    top: 40px;
+    right: 44px;
+    width: 300px;
+    background-color: rgb(38, 38, 38);
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(65, 65, 65);
+    padding: 16px;
+    flex-direction: column;
+}
+
+.workspace-promo-icon {
+    width: 32px;
+    height: 32px;
+    margin-bottom: 10px;
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-background-image-tint-color: rgb(245, 124, 152);
+}
+
+.workspace-promo-title {
+    font-size: 16px;
+    color: rgb(245, 124, 152);
+    -unity-font-style: bold;
+    margin: 0 0 6px 0;
+    padding: 0;
+    -unity-text-align: upper-left;
+}
+
+.workspace-promo-desc {
+    font-size: 11px;
+    color: rgb(195, 195, 195);
+    margin: 0 0 10px 0;
+    padding: 0;
+    white-space: normal;
+    -unity-text-align: upper-left;
+}
+
+.workspace-promo-features {
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+
+.workspace-promo-feature {
+    font-size: 11px;
+    color: rgb(170, 170, 170);
+    margin: 2px 0;
+    padding: 0;
+    white-space: normal;
+    -unity-text-align: upper-left;
+}
+
+.workspace-promo-cta-btn {
+    height: 32px;
+    margin: 0;
+    padding: 0 12px;
+    border-width: 0;
+    border-radius: 6px;
+    background-color: rgb(236, 94, 127);
+    color: rgb(245, 245, 245);
+    font-size: 12px;
+    -unity-font-style: bold;
+}
+
+.workspace-promo-cta-btn:hover {
+    background-color: rgb(245, 124, 152);
+}
+
+.workspace-promo-cta-btn:active {
+    background-color: rgb(214, 74, 107);
 }
 
 /* PicoBerry 아이콘 */

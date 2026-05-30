@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d8db59d7197947bfb3f399b48f4f3f6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.rngneeds/Runtime/ProbabilityListDeckExtensions.cs
+  uploadId: 904270

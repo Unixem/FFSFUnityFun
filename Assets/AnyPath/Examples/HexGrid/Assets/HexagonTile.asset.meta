@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd010503391440c48ef8302ff6aacc39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/HexGrid/Assets/HexagonTile.asset
+  uploadId: 709015

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f27ae10c7262cf1458fd1d43c5ef59da
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Resources/TexFontMetaData/cmb.asset
+  uploadId: 885466

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dcd155a302674056af4aea68cfec00ea
+timeCreated: 1678013793
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/ManagedGraphJobWrapper.cs
+  uploadId: 709015

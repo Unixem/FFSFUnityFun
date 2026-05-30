@@ -1,4 +1,4 @@
-namespace Packages.Unity_UModelerX.PureCode.Editor
+﻿namespace Packages.Unity_UModelerX.PureCode.Editor
 {
     public class GridSettingHelper
     {

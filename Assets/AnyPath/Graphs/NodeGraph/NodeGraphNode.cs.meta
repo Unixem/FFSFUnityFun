@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: ac2eae4ec38445c89f52c3a496a3574e
+timeCreated: 1669650531
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NodeGraph/NodeGraphNode.cs
+  uploadId: 709015

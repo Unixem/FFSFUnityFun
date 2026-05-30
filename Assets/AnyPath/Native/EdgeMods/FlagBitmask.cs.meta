@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cbda2559aec14ba9904687f54d815862
+timeCreated: 1641843946
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/EdgeMods/FlagBitmask.cs
+  uploadId: 709015

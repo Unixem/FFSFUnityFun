@@ -1,0 +1,145 @@
+﻿using UnityEditor;
+using UnityEngine;
+
+namespace RNGNeeds.Editor
+{
+    internal static class DropdownMenus
+    {
+        internal static void DepletableListActionDropdownMenu(PropertyData propertyData)
+        {
+            propertyData.DepletableListActionDropdownMenu = new GenericMenu();
+            propertyData.DepletableListActionDropdownMenu.AddDisabledItem(new GUIContent("Select Action"));
+            foreach (var action in RNGNStaticData.DepletableListActions)
+            {
+                var _tempContent = PLDrawerUtils.GetDepletableListActionContent(action.Action, action.Title, action.Tooltip, propertyData.DrawerSettings, true);
+                propertyData.DepletableListActionDropdownMenu.AddItem(_tempContent, propertyData.DepletableListAction.Action == action.Action, () =>
+                {
+                    Undo.RecordObject(propertyData.p_ProbabilityListProperty.serializedObject.targetObject, "Depletable List Action");
+                    propertyData.DrawerSettings.DepletableListAction = action.Action;
+                    propertyData.DepletableListAction = action;
+                    propertyData.DepletableListActionContent = _tempContent;
+                });
+            }
+        }
+        
+        internal static void SetupSelectionMethodDropdownMenu(PropertyData propertyData)
+        {
+            propertyData.SelectionMethodDropdownMenu = new GenericMenu();
+            var methods = RNGNeedsCore.RegisteredSelectionMethods;
+            foreach (var method in methods)
+            {
+                propertyData.SelectionMethodDropdownMenu.AddItem(new GUIContent(method.Name), propertyData.SelectionMethodName == method.Name, () =>
+                {
+                    Undo.RecordObject(propertyData.p_ProbabilityListProperty.serializedObject.targetObject, "Change Selection Method");
+                    propertyData.ProbabilityListEditorInterface.SelectionMethodID = method.Identifier;
+                    propertyData.SetSelectionMethodInfo();
+                });
+            }
+
+            propertyData.SelectionMethodDropdownMenu.AddSeparator("");
+
+            for (var i = 0; i < propertyData.p_PreventRepeat.enumDisplayNames.Length; i++)
+            {
+                var selectIndex = i;
+                if (i == propertyData.p_PreventRepeat.enumDisplayNames.Length - 1)
+                {
+                    for (var iterations = 1; iterations <= 5; iterations++)
+                    {
+                        var selectedIterations = iterations;
+                        propertyData.SelectionMethodDropdownMenu.AddItem(new GUIContent($"Prevent Repeat/{propertyData.p_PreventRepeat.enumDisplayNames[i]}/{iterations} Iterations"),
+                            propertyData.p_PreventRepeat.enumValueIndex == i && propertyData.p_ShuffleIterations.intValue == iterations,
+                            () =>
+                            {
+                                propertyData.p_PreventRepeat.enumValueIndex = selectIndex;
+                                propertyData.p_PreventRepeat.serializedObject.ApplyModifiedProperties();
+                                propertyData.p_ShuffleIterations.intValue = selectedIterations;
+                                propertyData.p_ShuffleIterations.serializedObject.ApplyModifiedProperties();
+                            });
+                    }
+                }
+                else
+                    propertyData.SelectionMethodDropdownMenu.AddItem(new GUIContent($"Prevent Repeat/{propertyData.p_PreventRepeat.enumDisplayNames[i]}"),
+                        propertyData.p_PreventRepeat.enumValueIndex == i,
+                        () =>
+                        {
+                            propertyData.p_PreventRepeat.enumValueIndex = selectIndex;
+                            propertyData.p_PreventRepeat.serializedObject.ApplyModifiedProperties();
+                        });
+            }
+
+            var iterationsInfo = propertyData.p_PreventRepeat.enumValueIndex == propertyData.p_PreventRepeat.enumDisplayNames.Length - 1
+                ? $" ({propertyData.p_ShuffleIterations.intValue.ToString()} Iterations)"
+                : string.Empty;
+            propertyData.SelectionMethodDropdownMenu.AddDisabledItem(
+                new GUIContent($" -> {propertyData.p_PreventRepeat.enumDisplayNames[propertyData.p_PreventRepeat.enumValueIndex]}{iterationsInfo}"));
+        }
+
+        internal static void SetupPaletteDropdownMenu(PropertyData propertyData)
+        {
+            propertyData.PaletteDropdownMenu = new GenericMenu();
+            foreach (var palettePath in RNGNStaticData.Settings.GetColorPalettePaths())
+            {
+                propertyData.PaletteDropdownMenu.AddItem(new GUIContent(palettePath), propertyData.DrawerSettings.Monochrome == false && palettePath == propertyData.DrawerSettings.PalettePath, () =>
+                {
+                    PLDrawerUtils.SetPalette(propertyData, palettePath);
+                });
+            
+                if (palettePath == "Default") propertyData.PaletteDropdownMenu.AddSeparator("");
+            }
+            
+            propertyData.PaletteDropdownMenu.AddSeparator("");
+            propertyData.PaletteDropdownMenu.AddItem(new GUIContent("Monochrome"), propertyData.DrawerSettings.Monochrome, () =>
+            {
+                propertyData.DrawerSettings.Monochrome = true;
+                propertyData.DrawerSettings.DimColors = true;
+                propertyData.SetupColors();
+            });
+        }
+        
+        internal static void DisplayOptionsDropdownMenu(PropertyData propertyData)
+        {
+            propertyData.DrawerDisplayOptionsDropdownMenu = new GenericMenu();
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddDisabledItem(new GUIContent("Stripe Options"));
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Show Item Index"), propertyData.DrawerSettings.ShowIndex, () =>
+            {
+                propertyData.DrawerSettings.ShowIndex = !propertyData.DrawerSettings.ShowIndex;
+                propertyData.SetHotStyles();
+            });
+            if (propertyData.CanDisplayItemInfo)
+            {
+                propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Show Item Info"), propertyData.DrawerSettings.ShowInfo, () =>
+                {
+                    propertyData.DrawerSettings.ShowInfo = !propertyData.DrawerSettings.ShowInfo;
+                    propertyData.SetHotStyles();
+                });
+            }
+            else
+            {
+                var type = propertyData.ProbabilityListEditorInterface.ItemType.Name;
+                propertyData.DrawerDisplayOptionsDropdownMenu.AddDisabledItem(new GUIContent($"Show Item Info (Not Supported by Type '{type}')"));
+            }
+
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Show Percentage"), propertyData.DrawerSettings.ShowPercentage, () =>
+            {
+                propertyData.DrawerSettings.ShowPercentage = !propertyData.DrawerSettings.ShowPercentage;
+                propertyData.SetHotStyles();
+            });
+            
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddSeparator("");
+            
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Dim Colors by Probability"), propertyData.DrawerSettings.DimColors, () =>
+            {
+                propertyData.DrawerSettings.DimColors = !propertyData.DrawerSettings.DimColors;
+                propertyData.SetupColors();
+            });
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Colorize Probability Bars"), propertyData.DrawerSettings.ColorizePreviewBars, () =>
+            {
+                propertyData.DrawerSettings.ColorizePreviewBars = !propertyData.DrawerSettings.ColorizePreviewBars;
+            });
+            propertyData.DrawerDisplayOptionsDropdownMenu.AddItem(new GUIContent("Normalize Probability Bars"), propertyData.DrawerSettings.NormalizePreviewBars, () =>
+            {
+                propertyData.DrawerSettings.NormalizePreviewBars = !propertyData.DrawerSettings.NormalizePreviewBars;
+            });
+        }
+    }
+}

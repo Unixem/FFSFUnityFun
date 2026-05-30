@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: e2aabd3dcbc04085a45aff45199c50ef
+timeCreated: 1639678603
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Platformer/PlatformerGraphBuilder.cs
+  uploadId: 709015

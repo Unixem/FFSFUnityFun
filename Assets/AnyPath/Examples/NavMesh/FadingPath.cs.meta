@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: d1cc270a64dc4b668739e276141a79d1
+timeCreated: 1646059331
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/NavMesh/FadingPath.cs
+  uploadId: 709015

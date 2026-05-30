@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d66f6a88985c36b4f9f4eae703da835a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 207327
+  packageName: Now We're Talking!
+  packageVersion: 1.09 - Sprite Mouths
+  assetPath: Assets/Now We're Talking/Scripts/setCorrectPhaseFromHere.cs
+  uploadId: 838750

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3323630c18e2a9e4babea8cdc09f40f6
+timeCreated: 1458307719
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Core/TexFont.cs
+  uploadId: 885466

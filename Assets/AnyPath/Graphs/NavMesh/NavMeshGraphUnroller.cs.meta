@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 50a70f4507cd4ef19722d6552d54d628
+timeCreated: 1643468700
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshGraphUnroller.cs
+  uploadId: 709015

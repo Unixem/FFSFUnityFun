@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: eeee0c325ae4447c9a2b92f4e4b6001b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249402
+  packageName: Dynamic Mesh Combiner
+  packageVersion: 1.33
+  assetPath: Assets/TeoGames/Mesh Combiner/Scripts/Combine/BatchMesh/BatchMeshBaker.cs
+  uploadId: 897532

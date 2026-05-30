@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 53ef3385d73e4a76ad83135ff2b79609
+timeCreated: 1634884481
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/ImmutableFinderException.cs
+  uploadId: 709015

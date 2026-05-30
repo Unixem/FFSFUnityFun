@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b461b7c03f034407af72c0fc41353f2e
+timeCreated: 1635441354
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Native/Results/AStarEvalOptionResult.cs
+  uploadId: 709015

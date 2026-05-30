@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e5c26fb35dbf64c4eb0d1f24f1a853e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/WebRpcImplementationExample.cs
+  uploadId: 817710

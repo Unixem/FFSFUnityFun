@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3865d4ed1f08474fbc2403166fa773bf
+timeCreated: 1669565617
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/LineGraph/LineGraphBuilder.cs
+  uploadId: 709015

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 45196039a6b96834c88edd0e198d0cbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247024
+  packageName: RNGNeeds - Probability Distribution
+  packageVersion: 1.1.0
+  assetPath: Packages/com.starphaselab.rngneeds/Samples~/03 Advanced Samples/Card
+    Battle/Editor/CardBattleWindowSampleEditor.cs
+  uploadId: 904270

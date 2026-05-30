@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 880e668efa4b7476bbac38252bba4224
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Runtime/TEXDraw Runtime.asmdef
+  uploadId: 885466

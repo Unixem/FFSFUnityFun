@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82aa06aaabc17496099ad5b60fa146db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Fonts/TMPro/opensb.asset
+  uploadId: 885466

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d90864ccbf99d4a449c87472b0a181e8
+labels:
+- ExitGames
+- PUN
+- Photon
+- Networking
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/readme.txt
+  uploadId: 817710

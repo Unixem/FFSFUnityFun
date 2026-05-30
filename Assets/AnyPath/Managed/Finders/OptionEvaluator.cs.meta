@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 4599b1d7655e4bef9525e5cede1a3ac2
+timeCreated: 1629830383
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/OptionEvaluator.cs
+  uploadId: 709015

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 34c38d6613d74f388f11b536e9d797a5
+timeCreated: 1629827985
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/PathEvaluator.cs
+  uploadId: 709015

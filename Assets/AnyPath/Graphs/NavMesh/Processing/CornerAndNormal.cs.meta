@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: be434ae18a194a1d961f63db56902ed6
+timeCreated: 1645864606
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/Processing/CornerAndNormal.cs
+  uploadId: 709015

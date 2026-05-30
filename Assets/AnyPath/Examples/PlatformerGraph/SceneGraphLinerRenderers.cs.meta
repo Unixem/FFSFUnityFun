@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c849e8965e6241028bcf3b0f544028e3
+timeCreated: 1646053439
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/PlatformerGraph/SceneGraphLinerRenderers.cs
+  uploadId: 709015

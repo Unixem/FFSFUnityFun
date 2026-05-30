@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 2b2e763a2de445f997cf59580c2a4637
+timeCreated: 1722067597
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/SquareGrid/SquareGridHeuristicProviderManhattanDistance.cs
+  uploadId: 709015

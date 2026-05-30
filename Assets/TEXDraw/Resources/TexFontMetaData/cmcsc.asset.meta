@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48e69619ecb23b54ca495a6555d3dfd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51426
+  packageName: TEXDraw
+  packageVersion: 7.1.0
+  assetPath: Assets/TEXDraw/Resources/TexFontMetaData/cmcsc.asset
+  uploadId: 885466

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c9ab1c6c178f4cf28acbebb886066dda
+timeCreated: 1692081274
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/NavMesh/NavMeshPlaneMod.cs
+  uploadId: 709015

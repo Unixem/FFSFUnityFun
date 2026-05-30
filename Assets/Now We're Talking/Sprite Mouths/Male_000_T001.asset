@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2974836da67e5eb4c9c97f3c7d0fe1ea, type: 3}
+  m_Name: Male_000_T001
+  m_EditorClassIdentifier: 
+  mouthName: _Male000_T001
+  mouthDescription: grey
+  sprites:
+  - {fileID: 21300000, guid: 7fec14f388722404799a9f5d1156950e, type: 3}
+  - {fileID: 21300000, guid: d7632061a89e1b643af105bf2c3cbd0d, type: 3}
+  - {fileID: 21300000, guid: 80e246769c9b52d418aed349115e8541, type: 3}
+  - {fileID: 21300000, guid: bff3d24233139894fac6252b339b9385, type: 3}
+  - {fileID: 21300000, guid: a060fd8933a69014691f7f641ba67939, type: 3}
+  - {fileID: 21300000, guid: 7c17772d6c52a0e42b9922933fd32c09, type: 3}
+  - {fileID: 21300000, guid: f31ed50ecbfc1354f9845fddf7997333, type: 3}
+  - {fileID: 21300000, guid: 0ad43bd716f6a2d46a95e5a60e745839, type: 3}
+  - {fileID: 21300000, guid: 2e3474450333e444da68743a496a634d, type: 3}
+  - {fileID: 21300000, guid: 5ba74277872a52a41bcf997b70e93eee, type: 3}
+  - {fileID: 21300000, guid: 72624d7acbdee1a418b9db1e18ddafa2, type: 3}
+  - {fileID: 21300000, guid: b26e9ced9327a5b45958c4959d78f31b, type: 3}
+  - {fileID: 21300000, guid: b63a4a64ade53f24abf7492cf416cd68, type: 3}
+  - {fileID: 21300000, guid: 5759331e7dab9d74fad9b43d6fe8b819, type: 3}
+  - {fileID: 21300000, guid: bdfa9ea6817f9b442b12deb3971a427f, type: 3}
+  - {fileID: 21300000, guid: 5758be1b46b00b645a3dc8539afd9ae8, type: 3}
+  - {fileID: 21300000, guid: 6faaebaabbceab54588f674e91b79db3, type: 3}
+  emotions: []

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1686cfb8f3f645be921412310d4db67e
+timeCreated: 1642014398
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/HexGrid/HexGridHeuristicProvider.cs
+  uploadId: 709015

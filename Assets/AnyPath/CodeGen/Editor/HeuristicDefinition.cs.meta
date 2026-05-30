@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 2ebce0dd8f5944f9a1312dbd04693411
+timeCreated: 1641136910
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/CodeGen/Editor/HeuristicDefinition.cs
+  uploadId: 709015

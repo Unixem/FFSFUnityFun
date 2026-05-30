@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67954ccc0a51146eda36802512fb6b68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/SquareGrid/Assets/SquareTile.asset
+  uploadId: 709015

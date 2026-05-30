@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cfd8a63d065f0f24abdc8b55217c7aa5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 178230
+  packageName: Essential Scripts for Games
+  packageVersion: 2.0
+  assetPath: Assets/Scripts You need 1/Camera Orthographic/Cam_Switch.cs
+  uploadId: 715727

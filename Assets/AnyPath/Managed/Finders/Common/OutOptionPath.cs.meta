@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 563199c7240c475ab91fa8014e704075
+timeCreated: 1636055445
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/Common/OutOptionPath.cs
+  uploadId: 709015

@@ -97,8 +97,10 @@
 }
 
 /* ========== 슬라이더 (좁은 인스펙터에서 FloatField가 밖으로 나가지 않도록) ========== */
+/* 자체가 .unity-base-field 이므로 Unity 인스펙터 기본 스타일의 margin-right: -2px 음수 마진을 무력화 */
 .painting3d-filter-slider {
     margin-bottom: 2px;
+    margin-right: 0;
     min-width: 0;
     flex-grow: 1;
     flex-shrink: 1;

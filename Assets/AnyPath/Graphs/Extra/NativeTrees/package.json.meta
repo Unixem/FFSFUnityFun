@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbf782472049437eba7e277eed647177
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Graphs/Extra/NativeTrees/package.json
+  uploadId: 709015

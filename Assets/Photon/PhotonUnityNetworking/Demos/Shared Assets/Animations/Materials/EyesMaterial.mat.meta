@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ce5a83fcea7762541ba43ca5bd854dae
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120838
+  packageName: Photon PUN 2+
+  packageVersion: 2.52
+  assetPath: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Animations/Materials/EyesMaterial.mat
+  uploadId: 817710

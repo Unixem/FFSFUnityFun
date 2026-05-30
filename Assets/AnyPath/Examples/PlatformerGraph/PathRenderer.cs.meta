@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b2c26764416f46029373ff8426eecdc0
+timeCreated: 1645439550
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Examples/PlatformerGraph/PathRenderer.cs
+  uploadId: 709015

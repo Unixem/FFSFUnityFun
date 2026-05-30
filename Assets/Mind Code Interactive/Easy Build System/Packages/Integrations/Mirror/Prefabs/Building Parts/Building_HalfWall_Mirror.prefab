@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &931721255936789862
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6344165726768775434, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_showLogs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -285449196469438504, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_showLogs
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1535044204823736549, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_Name
+      value: Building_HalfWall_Mirror
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3736311849441220728, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829777568610371953, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: name
+      value: Generic - Half Wall Mirror
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829777568610371953, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_prefabId
+      value: 9c7fe025699dd0842b9c2dde01b69ad2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829777568610371953, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_uniqueId
+      value: cb36-e281-ed3b
+      objectReference: {fileID: 0}
+    - target: {fileID: 3829777568610371953, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_attachedCollection
+      value: 
+      objectReference: {fileID: 11400000, guid: 803b22b11315a104d899eac35d646a58, type: 2}
+    - target: {fileID: 4918008999865961669, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+      propertyPath: m_showLogs
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+--- !u!1 &1847514995345161603 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1535044204823736549, guid: eb3d72e7d3bf6414bb79ffe5bd671e76, type: 3}
+  m_PrefabInstance: {fileID: 931721255936789862}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-3050561388653860689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1847514995345161603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneId: 0
+  _assetId: 1078764434
+  serverOnly: 0
+  visibility: 0
+  hasSpawned: 0

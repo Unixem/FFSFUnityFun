@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f2e58d197e18ff43bb0ed00d7b13ab0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 66207
+  packageName: Let's Try Assets
+  packageVersion: 3.0
+  assetPath: Assets/UnityTechnologies/Let's Try Shooter/Scenes/CompletedScenes/RayCastShootComplete/LightingData.asset
+  uploadId: 680588

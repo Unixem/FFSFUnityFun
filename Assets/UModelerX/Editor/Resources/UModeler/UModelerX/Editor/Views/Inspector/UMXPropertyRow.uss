@@ -36,6 +36,13 @@
     min-width: 0;
 }
 
+/* Unity 기본 인스펙터 스타일에서 .unity-base-field 에 적용되는 margin-right: -2px 음수 마진을
+ * 우리 커스텀 컨테이너 안에서 무력화한다. 음수 마진이 그대로 적용되면 필드 우측이 컨테이너 밖으로
+ * 튀어나가 인스펙터/패널 우측 경계에서 잘림이 발생한다. */
+.umx-prop-row__field-container > .unity-base-field {
+    margin-right: 0;
+}
+
 /* ========== 단일 필드 (flex-grow: 1) ========== */
 .umx-prop-field {
     flex-grow: 1;
@@ -58,6 +65,9 @@
 .umx-slider-row > FloatField {
     width: 60px;
     flex-shrink: 0;
+    /* Unity 인스펙터 기본 스타일의 margin-right: -2px 음수 마진 무력화
+     * (.umx-prop-row__field-container > .unity-base-field 규칙은 grandchild 인 이 필드에 미적용) */
+    margin-right: 0;
 }
 
 /* ========== SelectionGrid ========== */

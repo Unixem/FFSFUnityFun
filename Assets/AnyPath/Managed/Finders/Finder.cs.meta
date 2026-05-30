@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8d76bf92b7be44258837b803d6f4149c
+timeCreated: 1629745730
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213200
+  packageName: AnyPath
+  packageVersion: 1.6
+  assetPath: Assets/AnyPath/Managed/Finders/Finder.cs
+  uploadId: 709015
